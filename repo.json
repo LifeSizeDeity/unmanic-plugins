@@ -1,0 +1,26 @@
+{
+    "repo": {
+        "id": "repository.LifeSizeDeity",
+        "name": "LifeSizeDeity",
+        "icon": "",
+        "repo_data_directory": "https://raw.githubusercontent.com/LifeSizeDeity/unmanic-plugins/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/LifeSizeDeity/unmanic-plugins/repo/repo.json"
+    },
+    "plugins": [
+        {
+            "author": "",
+            "compatibility": [
+                2
+            ],
+            "description": "",
+            "icon": "",
+            "id": "move_file",
+            "name": "Move File",
+            "priorities": {
+                "on_postprocessor_file_movement": 0
+            },
+            "tags": "",
+            "version": "0.0.1"
+        }
+    ]
+}

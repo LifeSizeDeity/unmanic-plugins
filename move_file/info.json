@@ -1,0 +1,15 @@
+{
+    "author": "",
+    "compatibility": [
+        2
+    ],
+    "description": "",
+    "icon": "",
+    "id": "move_file",
+    "name": "Move File",
+    "priorities": {
+        "on_postprocessor_file_movement": 0
+    },
+    "tags": "",
+    "version": "0.0.1"
+}
